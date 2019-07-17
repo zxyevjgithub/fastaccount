@@ -30,4 +30,10 @@ public class AccountBO {
     //是不是现金
     private Boolean cash;
 
+    /**
+     *
+     */
+
+    private String vchno;
+
 }
